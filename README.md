@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zj71
+- 👋 Hi, I’m Agnesia Jia
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Machine Learning, Computer vision, NLP
 - 📫 How to reach me : https://space.bilibili.com/3650673 随便放的
